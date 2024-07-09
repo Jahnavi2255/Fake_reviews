@@ -1,0 +1,1 @@
+Fake reviews can significantly impact consumer trust and business reputation. This project aims to develop a machine learning model to identify fake online reviews by analyzing review content and metadata. We explore various natural language processing (NLP) techniques and machine learning algorithms to achieve this goal.
